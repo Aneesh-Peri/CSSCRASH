@@ -1,0 +1,28 @@
+/* This file will be about selectors */
+/* Types of selectors that will be talked about are element selectors,
+    class selectors, and ID selectors */
+/* Below is an example;  */
+
+/* Element selectors select all the elements of the type being specified */
+body
+{
+    /* only one body element per page */
+    font-size: 22px;
+    
+}
+
+p
+{   
+
+    color: blue;
+}
+
+/* Below are examples of class selectors */
+/* This changes 2/3 articles becuase there are 2 articles with class="gray" 
+    and the gray class changes the text to gray, inheritance basically */
+.gray 
+{
+    color: gray;
+}
+
+/* Below are examples of ID selectords */
