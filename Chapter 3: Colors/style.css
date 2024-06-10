@@ -1,0 +1,16 @@
+body
+{
+    font-size: 22px;
+    font-family: Arial,Helvetica,sans-serif;
+    line-height: 1.5;
+    background-color: palegoldenrod;
+    color: black; /* Using normal color names */
+    /* Using rgb values is as follows; color; rgb(0,0,255) gives green e.g*/
+    /* Using rgba(alpha channel) values is as follows; rgba(0,0,0,0.5) gives white but slightly toned    */
+
+}
+
+p
+{
+    color: rgba(34, 82, 216, 0.904); /* Using hex values */
+}
